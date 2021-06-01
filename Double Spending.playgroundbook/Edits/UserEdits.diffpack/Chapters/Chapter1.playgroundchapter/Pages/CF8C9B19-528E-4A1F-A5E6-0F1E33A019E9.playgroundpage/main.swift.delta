@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>    //Uncomment to test Double Spending
+   // transaction = coin!.payCoin(oldOwner: goofy.goofy, newOwner: bob, senderPrivateKey: "????", receiverPublicKey: "????", previousTransaction: coinCreationTransaction!) 
+</string>
+			<key>ModifiedRange</key>
+			<string>{1597, 213}</string>
+			<key>OriginalContent</key>
+			<string>   // transaction = coin!.payCoin(oldOwner: goofy.goofy, newOwner: bob, senderPrivateKey: "????", receiverPublicKey: "????", previousTransaction: coinCreationTransaction!) //Uncomment to test Double Spending
+</string>
+			<key>OriginalRange</key>
+			<string>{1597, 208}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Chapter1.playgroundchapter/Pages/CF8C9B19-528E-4A1F-A5E6-0F1E33A019E9.playgroundpage/main.swift</string>
+</dict>
+</plist>
