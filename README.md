@@ -23,13 +23,28 @@ It's been 38 years since David Chaum first introduced the idea of digital curren
 
 This is an informative playground that tries to teach you about Double Spending Attack and the need for P2P networks in cryptocurrencies. Some screenshots from the playground:
 
+### Goofy Coins
+
 <p>
  <img src="screenshots/Goofy1.png" alt="Introduction to Goofy Coins" />
- <img src="Screenshots/Goofy2.png" alt="Introduction to Goofy Coins" />
- <img src="Screenshots/Goofy3.png" alt="Introduction to Goofy Coins" />
- <img src="Screenshots/CreateGoofy1.png" alt="Creating Goofy Coins" />
- <img src="Screenshots/Create_Goofy2.png" alt="Creating Goofy Coins" />
- <img src="screenshots/introScrooge.png" alt="Introduction to Scrooge Coins" />
+ <img width="429" alt="Goofy2" src="https://user-images.githubusercontent.com/48411560/120388807-42762500-c349-11eb-9a5c-b9776f7b0a58.png">
+<img width="429" alt="Goofy3" src="https://user-images.githubusercontent.com/48411560/120388873-53bf3180-c349-11eb-9c84-1ea368c50145.png">
+
+https://user-images.githubusercontent.com/48411560/120389237-c6301180-c349-11eb-861d-19a316602bc0.mov
+
+<img width="1440" alt="Paying with Goofy Coins" src="https://user-images.githubusercontent.com/48411560/120389329-e9f35780-c349-11eb-85ba-84793fa1e0a9.png">
+
+### Scrooge Coins
+ 
+  <img src="screenshots/introScrooge.png" alt="Introduction to Scrooge Coins" />
+ 
+https://user-images.githubusercontent.com/48411560/120389603-422a5980-c34a-11eb-8857-9076bb516a61.mov
+ 
+ <img width="1440" alt="Screenshot 2021-06-02 at 2 29 41 AM" src="https://user-images.githubusercontent.com/48411560/120389690-65550900-c34a-11eb-8bfa-298d205f2dbe.png">
+
+https://user-images.githubusercontent.com/48411560/120389758-77cf4280-c34a-11eb-970f-99381be8d441.mov
+
+
  </p>
 
 ## License
