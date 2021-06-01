@@ -1,5 +1,6 @@
 # Double Spending
  
+ This is my submission for Swift Student Challenge - WWDC2021. This playgrounds aims to teach you basics of Double Spending Attack. This submission was selected as a winner.
  <p>
 <img alt="Swift" src="https://img.shields.io/badge/Swift-5-brightgreen">
 <img alt="XCode" src="https://img.shields.io/badge/Swift Playgrounds-3.4.1-blueviolet">
